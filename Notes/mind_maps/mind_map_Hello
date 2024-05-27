@@ -1,0 +1,12 @@
+// Mind Map
+digraph {
+	Hello [label=Hello]
+	Hello_note1 [label="eli "]
+	Hello -> Hello_note1
+	Hello_note2 [label=f]
+	Hello -> Hello_note2
+	Hello_note3 [label=gsdg]
+	Hello -> Hello_note3
+	Hello_note4 [label=test]
+	Hello -> Hello_note4
+}
